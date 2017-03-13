@@ -1,0 +1,12 @@
+{
+  "name": "ol2",
+  "homepage": "https://github.com/openlayers/ol2",
+  "main":["build/OpenLayers.js","theme/default/style.css"],
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bf1bdb11d1a93a783ad5f2c609c94aad48f60754"
+  },
+  "_source": "https://github.com/openlayers/ol2.git",
+  "_target": "*"
+}
